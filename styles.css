@@ -1,0 +1,26 @@
+
+h1, h2, h3, p{
+  display: block;
+}
+
+h1{
+font-size: 75px; 
+margin-left: 24%;
+margin-bottom: 0px;
+}
+h2{
+font-size: 50px; 
+margin-left: 25%;
+margin-bottom: 0px; 
+}
+h3{
+font-size: 35px;
+margin-left: 58%;
+margin-top: 0px;
+}
+
+.infoContainer{
+  border: 5px solid;
+  border-color: transparent #363636 transparent #363636;
+  box-shadow: inset 0px -4px 5px -2px #363636, inset 0px -10px 40px -15px rgba(0,0,0,1);
+}

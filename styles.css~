@@ -3,7 +3,7 @@ h1, h2, h3, p{
   display: block;
   margin: 0 auto;
   text-align: center;
-  color:  #353434 /*#4B4A4A;*/
+  color: #4B4A4A;
 }
 
 h1{
